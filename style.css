@@ -86,4 +86,8 @@ img {
       width: 100%;
       float: none;
     }
+
+    img {
+        height: 100px;
+    }
 }
